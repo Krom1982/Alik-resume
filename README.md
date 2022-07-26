@@ -2,4 +2,4 @@
 
 ## Результат можно посмотреть тут
 
-[Моя первая работа](https://github.com/Krom1982/Alik-resume)
+[Моя первая работа](https://krom1982.github.io/Alik-resume)
